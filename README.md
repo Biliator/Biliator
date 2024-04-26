@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently studying **Brno University of Technology**
 
+- 🔌 I have experience with CCNA 1 and 2
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/valentyn-vorobec-507825304/](https://www.linkedin.com/in/valentyn-vorobec-507825304/)
 
 <h3 align="left">Connect with me:</h3>
